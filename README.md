@@ -1,3 +1,4 @@
+<img style="width:100%;" src="https://avatars.githubusercontent.com/u/76838003?v=4"/>
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 

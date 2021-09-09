@@ -5,13 +5,14 @@
 
 - 🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at [https://portfolio178.netlify.app/](https://portfolio178.netlify.app/)
+- 👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app" > MY PORTFOLIO </a>
+ 
 
 - 💬 Ask me about **REACT**
 
 - 📫 How to reach me **ariful.islam.cs.178@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view](https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" > MY CV </a>
 
 
 
@@ -22,8 +23,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a  href="https://linkedin.com/in/https://www.linkedin.com/in/arif-715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-715/" height="60" width="70" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100059586523376" height="30" width="70" style="background-color:red;"/></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100059586523376" height="60" width="70" style="background-color:red;"/></a>
 </p>
-<button style="background-color:powderblue;" >hi</button>
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful-178&show_icons=true&locale=en&layout=compact" alt="ariful-178" /></p>
+
+
+
+

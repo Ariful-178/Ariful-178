@@ -1,5 +1,6 @@
-<img class="center" src="https://scontent.fdac38-1.fna.fbcdn.net/v/t1.6435-9/p180x540/241471257_252387263424156_7983554075736777925_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=vDevfBSuHoAAX-HIbsN&_nc_ht=scontent.fdac38-1.fna&oh=3b3090eb18baec907009c8e7243963f0&oe=615E14E3"/>
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
+<img class="center" src="https://scontent.fdac38-1.fna.fbcdn.net/v/t1.6435-9/p180x540/241471257_252387263424156_7983554075736777925_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=vDevfBSuHoAAX-HIbsN&_nc_ht=scontent.fdac38-1.fna&oh=3b3090eb18baec907009c8e7243963f0&oe=615E14E3"/>
+
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **REACT**
@@ -20,8 +21,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arif-715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-715/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100059586523376" height="30" width="40" /></a>
+<a  href="https://linkedin.com/in/https://www.linkedin.com/in/arif-715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-715/" height="60" width="70" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100059586523376" height="30" width="70" style="background-color:red;"/></a>
 </p>
+<button style="background-color:powderblue;" >hi</button>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful-178&show_icons=true&locale=en&layout=compact" alt="ariful-178" /></p>

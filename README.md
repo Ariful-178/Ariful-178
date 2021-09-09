@@ -33,7 +33,7 @@
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a  href="https://www.linkedin.com/in/arif-715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-715/" height="60" width="70" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100059586523376" height="60" width="70" style="background-color:red;"/></a><a href="https://fb.com/https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="https://join.skype.com/invite/yzFGo0e5u4G0" height="60" width="70"/></a>
+<a href="https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100059586523376" height="60" width="70" style="background-color:red;"/></a><a href="https://join.skype.com/invite/yzFGo0e5u4G0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="skype" height="60" width="70"/></a>
  
  
 </p>

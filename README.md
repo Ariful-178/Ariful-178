@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <img class="center" src="https://scontent.fdac38-1.fna.fbcdn.net/v/t1.6435-9/p180x540/241471257_252387263424156_7983554075736777925_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=vDevfBSuHoAAX-HIbsN&_nc_ht=scontent.fdac38-1.fna&oh=3b3090eb18baec907009c8e7243963f0&oe=615E14E3"/>
 
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A Passionate Frontend Developer from Bangladesh 🤠</h3>
+
+<br/>
 
 
-- 🔭 I’m currently learning **Open To Work**
+👉  🔭 I’m currently learning **Open To Work**
  
-- 🌱 I’m currently learning **REACT**
+👉  🌱 I’m currently learning **REACT**
 
-- 👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app" > MY PORTFOLIO </a>
+👉  👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app" > MY PORTFOLIO </a>
  
 
-- 💬 Ask me about **REACT**
+👉  💬 Ask me about **REACT**
 
-- 📫 How to reach me **ariful.islam.cs.178@gmail.com**
+👉  📫 How to reach me **ariful.islam.cs.178@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" > MY CV </a>
+👉  📄 Know about my experiences <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" > MY CV </a>
 
 
 

@@ -63,10 +63,7 @@
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ariful-178)  
 
-<br/>
-<br/>
 
-![GitHub metrics](https://metrics.lecoq.io/Ariful-178)  
 
 
 

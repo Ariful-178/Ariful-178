@@ -19,6 +19,10 @@
 
 👉  📄 Know about my experiences <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" > MY CV </a>
 
+<br/>
+
+![Profile views](https://gpvc.arturio.dev/Ariful-178)  
+
 
 
 <br/>
@@ -64,9 +68,7 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/Ariful-178)  
 
-<br/>
-<br/>
 
-![Profile views](https://gpvc.arturio.dev/Ariful-178)  
+
 
 

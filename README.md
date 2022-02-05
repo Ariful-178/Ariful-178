@@ -6,7 +6,7 @@
 <br/>
 
 
-👉  🔭 I’m currently learning **Open To Work**
+👉  🔭 I’m currently learning **SQA**
  
 👉  🌱 I’m currently learning **REACT**
 

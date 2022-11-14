@@ -8,12 +8,12 @@
 
 👉  🔭 I’m currently learning **SQA**
  
-👉  🌱 I’m currently learning **REACT**
+👉  🌱 I’m currently learning **Automation Testing **
 
 👉  👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app" > MY PORTFOLIO </a>
  
 
-👉  💬 Ask me about **REACT**
+👉  💬 Ask me about **SQA**
 
 👉  📫 How to reach me **ariful.islam.cs.178@gmail.com**
 

@@ -23,7 +23,7 @@
 
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/Ariful-178)  
+
 
 
 
@@ -64,7 +64,7 @@
 <br/>
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ariful-178)  
+
 
 
 

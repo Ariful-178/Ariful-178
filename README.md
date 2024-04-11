@@ -20,7 +20,7 @@
 👉  📄 Know about my experiences <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" > MY CV </a>
 
 <br/>
-<img  style="float: right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img  style="margin : 500px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 ![Profile views](https://gpvc.arturio.dev/Ariful-178)  
 
 

@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <img class="center" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
-<br/>
-<br/>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+
 
 <h2 align="center">Wants to see some of my work? scroll down ⬇️ 👇 </h2>
 
 <br/>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 👉  🔭 I’m currently learning **SQA**
  
@@ -24,7 +23,7 @@
 
 <br/>
 
-[Profile views](https://gpvc.arturio.dev/Ariful-178)  
+![Profile views](https://gpvc.arturio.dev/Ariful-178)  
 
 
 
@@ -55,17 +54,17 @@
 <br/>
 <br/>
 
-[GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ariful-178)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ariful-178)  
 
 <br/>
 <br/>
 
-[GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-178&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-178&show_icons=true) 
 
 <br/>
 <br/>
 
-[GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ariful-178)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ariful-178)  
 
 
 

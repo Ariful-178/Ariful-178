@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
 <img class="center" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 <h2 align="center">Wants to see some of my work? scroll down ⬇️ 👇 </h2>
 
 <br/>
@@ -20,7 +22,7 @@
 👉  📄 Know about my experiences <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" > MY CV </a>
 
 <br/>
-<img  style="margin : 500px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
 ![Profile views](https://gpvc.arturio.dev/Ariful-178)  
 
 

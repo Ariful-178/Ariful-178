@@ -54,7 +54,9 @@
 <br/>
 <br/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ariful-178)  
+<p align="center">
+ ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Ariful-178)  
+</p>
 
 <br/>
 <br/>

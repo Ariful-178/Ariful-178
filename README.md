@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ariful Islam</h1>
-<img class="center"  width="400" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
+<img class="center"  height="400" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
 
 
 

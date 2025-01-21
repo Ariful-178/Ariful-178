@@ -56,6 +56,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ariful-178&theme=prussian&card_width=1280&card_height=300)](https://git.io/streak-stats)
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ariful-178&theme=prussian&card_width=1280&card_height=300" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ariful-178 & theme=catppuccin-frappe & card_width=1200)](https://git.io/streak-stats)
 <br/>
 <br/>
 

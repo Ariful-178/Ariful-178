@@ -1,76 +1,60 @@
-<h1 align="center">Hi 👋, I'm Ariful Islam</h1>
-<img class="center"  height="300"  width="1200" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
+<h1 style="text-align:center;">Hi 👋, I'm Ariful Islam</h1>
+    <img class="center" height="300" width="1200" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
 
+    <h2 style="text-align:center;">Wants to see some of my work? Scroll down ⬇️ 👇</h2>
 
+    <br/>
+    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<h2 align="center">Wants to see some of my work? scroll down ⬇️ 👇 </h2>
+    <ul>
+        <li>🔭 I’m currently working as a <strong>SQA Engineer L2 (Automation Testing)</strong></li>
+        <li>🌱 I’m currently learning <strong>Cyber Security</strong></li>
+        <li>👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app">MY PORTFOLIO</a></li>
+        <li>💬 Ask me about <strong>SQA</strong></li>
+        <li>📫 How to reach me: <strong>ariful.islam.cs.178@gmail.com</strong></li>
+        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view">MY CV</a></li>
+    </ul>
 
-<br/>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+    <br/><br/>
 
-👉  🔭 I’m currently Working as a **SQA Engineer L2 (Automation Testing)**
- 
-👉  🌱 I’m currently learning **cyber security**
+    <h3 style="text-align:center;">Languages and Tools:</h3>
+    <div class="skills-container">
+        <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" /></a>
+        <a href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" /></a>
+        <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" /></a>
+        <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" /></a>
+        <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" /></a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" /></a>
+        <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" /></a>
+        <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" /></a>
+        <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" /></a>
+        <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" /></a>
+        <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" /></a>
+    </div>
 
-👉  👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app">MY PORTFOLIO</a>
- 
+    <br/><br/>
 
-👉  💬 Ask me about **SQA**
+    <h2 style="text-align:center;">Connect with me:</h2>
+    <div class="social-icons">
+        <a  style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;" href="https://www.linkedin.com/in/arif-715/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/></a>
+        <a  style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;" href="https://www.facebook.com/profile.php?id=100059586523376" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/></a>
+        <a  style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;" href="https://join.skype.com/invite/yzFGo0e5u4G0" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype"/></a>
+    </div>
 
-👉  📫 How to reach me **ariful.islam.cs.178@gmail.com**
+    <br/>
 
-👉  📄 Know about my experiences <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" > MY CV </a>
+    <div class="highlight-box">
+        <p>Let's Connect!</p>
+    </div>
 
-<br/>
+    <br/><br/>
 
-
-
-
-
-<br/>
-<br/>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="80" height="80" margin = "50px" /> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="80" height="80" margin = "50px" /> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80" height="80" margin = "50px" /> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80" margin = "50px" /> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80" margin = "50px" /> </a><br/><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80" margin = "50px" /> </a><a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="80" height="80" margin = "50px" /> </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="80" height="80" margin = "50px" /> </a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80" margin = "50px" /> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="80" height="80" margin = "50px" /> </a><br/><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80" margin = "50px" /> </a><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="80" height="80" margin = "50px" /> </a></p>
-
-
-<br/>
-<br/>
-
-<h2 align="center">Connect with me:</h2>
-<p align="center">
-<a  href="https://www.linkedin.com/in/arif-715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arif-715/" height="60" width="70" /></a>
-<a href="https://www.facebook.com/profile.php?id=100059586523376" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100059586523376" height="60" width="70" style="background-color:red;"/></a><a href="https://join.skype.com/invite/yzFGo0e5u4G0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="skype" height="60" width="70"/></a>
- 
- 
-</p>
-
-<br/>
-<br/>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful-178&show_icons=true&locale=en&layout=compact" alt="ariful-178" /></p>
-
-<br/>
-<br/>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ariful-178&theme=prussian&card_width=1280&card_height=300)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Ariful-178&theme=prussian&card_width=1280&card_height=300" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ariful-178 & theme=catppuccin-frappe & card_width=1200)](https://git.io/streak-stats)
-<br/>
-<br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ariful-178&show_icons=true) 
-
-<br/>
-<br/>
-
-
-
-
-
-
-
-
-
+    <h2 style="text-align:center;">GitHub Stats:</h2>
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ariful-178&show_icons=true" alt="GitHub Stats" />
+    </p>
+    
+    <p align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Ariful-178&theme=prussian" alt="GitHub Streak Stats" />
+    </p>

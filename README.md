@@ -56,3 +56,51 @@
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Ariful-178&theme=prussian" alt="GitHub Streak Stats" />
 </p>
+
+
+<style>
+    .social-icons {
+        display: flex;
+        gap: 15px; /* Space between icons */
+        justify-content: center; /* Centering icons */
+    }
+
+    .social-icons a {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 100px; /* Adjusted width */
+        height: 100px; /* Adjusted height */
+        background-color: powderblue;
+        border-radius: 10px; /* Optional rounded corners */
+        text-decoration: none;
+        transition: background-color 0.3s ease; /* Smooth hover effect */
+    }
+
+    .social-icons a:hover {
+        background-color: lightblue;
+    }
+
+    .social-icons img {
+        width: 50px; /* Adjusted icon size */
+        height: 50px;
+    }
+
+    /* Custom background for Skype */
+    .skype-icon {
+        background-color: gray !important;
+    }
+</style>
+
+<div class="social-icons">
+    <a href="https://www.linkedin.com/in/arif-715/" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.facebook.com/profile.php?id=100059586523376" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/>
+    </a>
+    <a href="https://join.skype.com/invite/yzFGo0e5u4G0" target="_blank" class="skype-icon">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype"/>
+    </a>
+</div>
+

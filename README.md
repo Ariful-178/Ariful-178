@@ -37,7 +37,7 @@
 <div class="social-icons">
 <a  style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;" href="https://www.linkedin.com/in/arif-715/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/></a>
 <a  style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;" href="https://www.facebook.com/profile.php?id=100059586523376" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/></a>
-<a   href="https://join.skype.com/invite/yzFGo0e5u4G0" target="_blank" style="display: inline-block; background-color: gray; padding: 10px; border-radius: 5px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype" style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;"/></a>
+<a   href="https://join.skype.com/invite/yzFGo0e5u4G0" target="_blank" style=" background-color: gray; padding: 10px; border-radius: 5px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype" style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;"/></a>
 </div>
 
 <br/>

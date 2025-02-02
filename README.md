@@ -6,14 +6,14 @@
 <br/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-    <ul>
-        <li>🔭 I’m currently working as a <strong>SQA Engineer L2 (Automation Testing)</strong></li>
-        <li>🌱 I’m currently learning <strong>Cyber Security</strong></li>
-        <li>👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app">MY PORTFOLIO</a></li>
-        <li>💬 Ask me about <strong>SQA</strong></li>
-        <li>📫 How to reach me: <strong>ariful.islam.cs.178@gmail.com</strong></li>
-        <li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view">MY CV</a></li>
-    </ul>
+<ul>
+<li>🔭 I’m currently working as a <strong>SQA Engineer L2 (Automation Testing)</strong></li>
+<li>🌱 I’m currently learning <strong>Cyber Security</strong></li>
+<li>👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app">MY PORTFOLIO</a></li>
+<li>💬 Ask me about <strong>SQA</strong></li>
+<li>📫 How to reach me: <strong>ariful.islam.cs.178@gmail.com</strong></li>
+<li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view">MY CV</a></li>
+</ul>
 
     <br/><br/>
 

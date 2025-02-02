@@ -59,38 +59,39 @@
 
 
 <style>
-    .social-icons {
-        display: flex;
-        gap: 15px; /* Space between icons */
-        justify-content: center; /* Centering icons */
-    }
+.social-icons {
+display: flex;
+gap: 15px; /* Space between icons */
+justify-content: center; /* Centering icons */
+}
 
-    .social-icons a {
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        width: 100px; /* Adjusted width */
-        height: 100px; /* Adjusted height */
-        background-color: powderblue;
-        border-radius: 10px; /* Optional rounded corners */
-        text-decoration: none;
-        transition: background-color 0.3s ease; /* Smooth hover effect */
-    }
+.social-icons a {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100px; /* Adjusted width */
+height: 100px; /* Adjusted height */
+background-color: powderblue;
+border-radius: 10px; /* Optional rounded corners */
+text-decoration: none;
+transition: background-color 0.3s ease; /* Smooth hover effect */
+}
 
-    .social-icons a:hover {
-        background-color: lightblue;
-    }
+.social-icons a:hover {
+background-color: lightblue;
+}
 
-    .social-icons img {
-        width: 50px; /* Adjusted icon size */
-        height: 50px;
-    }
+.social-icons img {
+width: 50px; /* Adjusted icon size */
+height: 50px;
+}
 
-    /* Custom background for Skype */
-    .skype-icon {
-        background-color: gray !important;
-    }
+/* Custom background for Skype */
+.skype-icon {
+background-color: gray !important;
+}
 </style>
+
 
 <div class="social-icons">
     <a href="https://www.linkedin.com/in/arif-715/" target="_blank">

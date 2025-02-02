@@ -1,10 +1,10 @@
 <h1 style="text-align:center;">Hi 👋, I'm Ariful Islam</h1>
-    <img class="center" height="300" width="1200" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
+<img class="center" height="300" width="1200" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
 
-    <h2 style="text-align:center;">Wants to see some of my work? Scroll down ⬇️ 👇</h2>
+<h2 style="text-align:center;">Wants to see some of my work? Scroll down ⬇️ 👇</h2>
 
-    <br/>
-    <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<br/>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
     <ul>
         <li>🔭 I’m currently working as a <strong>SQA Engineer L2 (Automation Testing)</strong></li>

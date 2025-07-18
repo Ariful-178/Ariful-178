@@ -1,107 +1,96 @@
-<h1 style="text-align:center;">Hi 👋, I'm Ariful Islam</h1>
-<img class="center" height="300" width="1200" src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg"/>
+<h1 align="center">Hi 👋, I'm Ariful Islam</h1>
+<h3 align="center">Quality Assurance Engineer & Automation Specialist</h3>
 
-<h2 style="text-align:center;">Wants to see some of my work? Scroll down ⬇️ 👇</h2>
-
-<br/>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
-<ul>
-<li>🔭 I’m currently working as a <strong>SQA Engineer L2 (Automation Testing)</strong></li>
-<li>🌱 I’m currently learning <strong>Cyber Security</strong></li>
-<li>👨‍💻 All of my projects are available at <a href="https://portfolio178.netlify.app">MY PORTFOLIO</a></li>
-<li>💬 Ask me about <strong>SQA</strong></li>
-<li>📫 How to reach me: <strong>ariful.islam.cs.178@gmail.com</strong></li>
-<li>📄 Know about my experiences: <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view">MY CV</a></li>
-</ul>
-<br/><br/>
-<h3 style="text-align:center;">Languages and Tools:</h3>
-<div class="skills-container">
-<a width: 200px; height: 100px; padding: 85px 50px 50px 50px; href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" /></a>
-<a style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px;" href="https://www.cypress.io" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="Cypress" width="50" height="50" /></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" /></a>
-<a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" /></a>
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" /></a>
-<a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="50" height="50" /></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" /></a>
-<a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman"  width="50" height="50"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" /></a>
-<a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="50" height="50" /></a>
-</div>
-
-<br/><br/>
-
-<h2 style="text-align:center;">Connect with me:</h2>
-<div class="social-icons">
-<a  style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;" href="https://www.linkedin.com/in/arif-715/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/></a>
-<a  style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;" href="https://www.facebook.com/profile.php?id=100059586523376" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/></a>
-<a   href="https://join.skype.com/invite/yzFGo0e5u4G0" target="_blank" style=" background-color: gray; padding: 10px; border-radius: 5px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype" style="background-color: powderblue; width: 200px; height: 100px; padding: 85px 50px 50px 50px; text-align: center;"/></a>
-</div>
-
-<br/>
-
-<div class="highlight-box">
-<p>Let's Connect!</p>
-</div>
-
-<br/><br/>
-
-<h2 style="text-align:center;">GitHub Stats:</h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ariful-178&show_icons=true" alt="GitHub Stats" />
+  <img src="https://i.postimg.cc/G3fwsv9X/hhjjhk.jpg" alt="banner" style="border-radius: 10px; max-width: 100%; height: auto; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding" style="border-radius: 10px; width: 100%; max-width: 400px;">
+    </td>
+    <td width="50%">
+      <ul>
+        <li>🔭 Currently working as <strong>SQA Engineer L2 (Automation Testing)</strong></li>
+        <li>🌱 Learning <strong>Cyber Security</strong> & advanced test automation</li>
+        <li>💬 Ask me about <strong>QA Automation, Selenium, Cypress</strong></li>
+        <li>📫 Reach me: <strong>ariful.islam.cs.178@gmail.com</strong></li>
+        <li>⚡ Fun fact: <strong>I can find bugs even in my dreams!</strong></li>
+      </ul>
+      <p align="center">
+        <a href="https://portfolio178.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio">
+        </a>
+        <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" target="_blank">
+          <img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <a href="https://www.java.com" target="_blank">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  </a>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  </a>
+  <a href="https://www.cypress.io" target="_blank">
+    <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" alt="Cypress">
+  </a>
+  <a href="https://www.selenium.dev" target="_blank">
+    <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://postman.com" target="_blank">
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  </a>
+</p>
+
+<h2 align="center">📈 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ariful-178&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful-178&theme=radical" alt="GitHub Streak Stats" style="max-width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-178&layout=compact&theme=radical" alt="Top Languages" style="max-width: 100%;">
+</p>
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arif-715/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=100059586523376" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://join.skype.com/invite/yzFGo0e5u4G0" target="_blank">
+    <img src="https://img.shields.io/badge/SKYPE-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="Skype">
+  </a>
+  <a href="mailto:ariful.islam.cs.178@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+</p>
+
+<h2 align="center">🚀 Let's Collaborate!</h2>
+
+<p align="center">
+  I'm always open to discussing QA automation, new projects, or creative ideas.<br>
+  Feel free to reach out!
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ariful-178&theme=prussian" alt="GitHub Streak Stats" />
+  <img src="https://komarev.com/ghpvc/?username=Ariful-178&label=Profile%20views&color=0e75b6&style=flat" alt="Ariful-178">
 </p>
-
-
-<style>
-.social-icons {
-display: flex;
-gap: 15px; /* Space between icons */
-justify-content: center; /* Centering icons */
-}
-
-.social-icons a {
-display: flex;
-align-items: center;
-justify-content: center;
-width: 100px; /* Adjusted width */
-height: 100px; /* Adjusted height */
-background-color: powderblue;
-border-radius: 10px; /* Optional rounded corners */
-text-decoration: none;
-transition: background-color 0.3s ease; /* Smooth hover effect */
-}
-
-.social-icons a:hover {
-background-color: lightblue;
-}
-
-.social-icons img {
-width: 50px; /* Adjusted icon size */
-height: 50px;
-}
-
-/* Custom background for Skype */
-.skype-icon {
-background-color: gray !important;
-}
-</style>
-
-
-<div class="social-icons">
-    <a href="https://www.linkedin.com/in/arif-715/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn"/>
-    </a>
-    <a href="https://www.facebook.com/profile.php?id=100059586523376" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook"/>
-    </a>
-    <a href="https://join.skype.com/invite/yzFGo0e5u4G0" target="_blank" class="skype-icon">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="Skype"/>
-    </a>
-</div>
-

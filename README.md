@@ -25,7 +25,7 @@
         <li>⚡ Fun fact: <strong>I find bugs even in my dreams!</strong></li>
       </ul>
       <p align="center">
-        <a href="https://www.linkedin.com/in/ariful-islam-178" target="_blank">
+        <a href="https://www.linkedin.com/in/ariful-islam178/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="100" height="30" style="border-radius: 8px;" />
         </a>
         &nbsp;

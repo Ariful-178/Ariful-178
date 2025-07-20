@@ -33,7 +33,7 @@
           <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" width="100" height="30" style="border-radius: 8px;" />
         </a>
         &nbsp;
-        <a href="https://drive.google.com/file/d/1E0w1OAaCIRe777Mq1DDI9YpnHzclDSRV/view" target="_blank">
+        <a href="https://ariful-cv.netlify.app/" target="_blank">
           <img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" width="100" height="30" style="border-radius: 8px;" />
         </a>
       </p>

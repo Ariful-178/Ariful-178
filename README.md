@@ -3,7 +3,7 @@
 
 <p align="center">
   <img 
-    <a href='https://postimg.cc/BPWBtCKd' target='_blank'><img src='https://i.postimg.cc/gjjSSSkk/Think-like-a-user-act-like-a-critic-that-s-the-QA-way-2.png' border='0' alt='Think-like-a-user-act-like-a-critic-that-s-the-QA-way-2'/></a> 
+    <a href='https://postimg.cc/YhNhWBVX' target='_blank'><img src='https://i.postimg.cc/hP6xNS0q/Ivory-White-Modern-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-1.png' border='0' alt='Ivory-White-Modern-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-1'/></a> 
     
   >
 </p>

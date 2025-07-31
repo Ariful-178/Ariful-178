@@ -76,18 +76,45 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: nowrap; margin-bottom: 15px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Ariful-178&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
-    style="width: 45%; height: 140px; object-fit: contain;" 
+    style="max-width: 100%; width: 400px; height: auto;" 
   />
+  
+</div>
+
+<h2 align="center">💻 Most Used Languages</h2>
+
+<div align="center" style="margin-bottom: 20px;">
   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Ariful-178&theme=radical" 
-    alt="GitHub Streak Stats" 
-    style="width: 45%; height: 140px; object-fit: contain;" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ariful-178&layout=compact&theme=radical" 
+    alt="Top Languages" 
+    style="max-width: 100%; width: 400px; height: auto;" 
   />
-</p>
+</div>
+
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<div align="center" style="margin-bottom: 20px;">
+  <img 
+    src="https://ghchart.rshah.org/radical/Ariful-178" 
+    alt="GitHub Contribution Chart" 
+    style="max-width: 100%; width: 700px; height: auto;" 
+  />
+</div>
+
+<h2 align="center">🏆 GitHub Trophy Showcase</h2>
+
+<div align="center">
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Ariful-178&theme=radical&margin-w=15&margin-h=15" 
+    alt="GitHub Trophies" 
+    style="max-width: 100%; width: 1000px; height: auto;" 
+  />
+</div>
+
 
 <p align="center" style="margin-top: 0;">
   <img 
